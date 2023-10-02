@@ -1,3 +1,3 @@
 # Palindromy
 
-Postupujte podle zadání cvičení [Anagramy](https://kodim.cz/kurzy/daweb/js1/cykly/cv-foreach#cvlekce%3Epalindromy).
+Postupujte podle zadání cvičení [Palindromy](https://kodim.cz/vyvoj-webu/daweb/js1/cykly/cv-foreach/palindromy).
